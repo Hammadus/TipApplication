@@ -32,7 +32,7 @@ the numbers and the background.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/PGv29ae.gif' title='appdemo' width='1.62 mb' alt='https://imgur.com/PGv29ae' />
+img src='https://i.imgur.com/PGv29ae.gif' title='appdemo' width='1.62 mb' alt='https://imgur.com/PGv29ae' 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
