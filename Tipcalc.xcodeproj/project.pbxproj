@@ -14,6 +14,7 @@
 		CA158113211BE7740051E1DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA158111211BE7740051E1DE /* LaunchScreen.storyboard */; };
 		CA15811E211BE7740051E1DE /* TipcalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA15811D211BE7740051E1DE /* TipcalcTests.swift */; };
 		CA158129211BE7740051E1DE /* TipcalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA158128211BE7740051E1DE /* TipcalcUITests.swift */; };
+		CA158137211BF5F60051E1DE /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA158136211BF5F60051E1DE /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CA158124211BE7740051E1DE /* TipcalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipcalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA158128211BE7740051E1DE /* TipcalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipcalcUITests.swift; sourceTree = "<group>"; };
 		CA15812A211BE7740051E1DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA158136211BF5F60051E1DE /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		CA1580FC211BE7730051E1DE = {
 			isa = PBXGroup;
 			children = (
+				CA158136211BF5F60051E1DE /* SettingsViewController.swift */,
 				CA158107211BE7730051E1DE /* Tipcalc */,
 				CA15811C211BE7740051E1DE /* TipcalcTests */,
 				CA158127211BE7740051E1DE /* TipcalcUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				CA15810B211BE7730051E1DE /* ViewController.swift in Sources */,
 				CA158109211BE7730051E1DE /* AppDelegate.swift in Sources */,
+				CA158137211BF5F60051E1DE /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
